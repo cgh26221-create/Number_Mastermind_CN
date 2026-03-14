@@ -1,0 +1,5 @@
+{
+  "name": "Number Mastermind AI",
+  "description": "A sophisticated number guessing game where you can challenge the AI or have the AI solve your secret number using logical deduction.",
+  "requestFramePermissions": []
+}
